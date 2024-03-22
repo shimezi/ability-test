@@ -1,0 +1,20 @@
+.header {
+    background: #FFFFFF;
+}
+
+.header__inner {
+    max-width: 1512px;
+    max-height: 100px;
+    border:1px ;
+    border-color:#E0DFDE ;
+}
+
+.header__logo {
+    max-width: 1509.01px;
+    max-height: 100px;
+    margin-left: 2.99px;
+    font-family: 'Inika';
+    font-size: 40px;
+    font-weight: 400;
+    text-align: center;
+}

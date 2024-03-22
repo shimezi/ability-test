@@ -1,0 +1,15 @@
+.thanks__content {
+    margin: 0 auto;
+    max-width: 1512px;
+    max-height: 982px;
+    background: #FFFFFF;
+}
+
+.thanks__logo {
+    font-size: "Inika";
+    margin: 0 auto;
+    padding: 319px 66px;
+    max-width: 1381px;
+    max-height: 365px;
+    color: #8B79690D;
+}
